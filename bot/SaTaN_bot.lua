@@ -227,16 +227,14 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {119989724,187769689,118682430},--Sudo users
+    sudo_users = {185658347,107746299,75213323,139990182,121069994},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
-    Advanced Bot Base On Seed
-    
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
-    
-    #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    about_text = [[MSF bot v3.6
+    admins:
+    @mrrige
+    @CLONER_admin
+    @xx_mersad_xx
     
 ]],
     help_text_realm = [[
